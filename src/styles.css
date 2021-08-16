@@ -1,0 +1,30 @@
+.App {
+  font-family: "Style Script", cursive;
+  text-align: center;
+}
+input {
+  padding: 1rem;
+  width: 400px;
+}
+span {
+  font-size: 2rem;
+  cursor: pointer;
+  padding: 1rem;
+}
+input {
+  font-size: 1.5rem;
+}
+body {
+  margin: 20px;
+}
+
+.container {
+  border-radius: 2rem;
+  padding: 2rem;
+  max-width: 600px;
+  margin: auto;
+  background-color: #c4b5fd;
+}
+h1 {
+  margin-block-start: 0em;
+}
